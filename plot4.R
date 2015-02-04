@@ -1,4 +1,5 @@
 # set the working directory
+
 setwd("~/coursera/exploratoryDataAnalysis/ExData_Plotting1")
 
 #Download the file
